@@ -20,7 +20,7 @@ These scripts (along with their corresponding datasets) have been made public fo
 
 ### How users can get started with the project
 1. Download RStudio
-2. Download our datasets from Dryad: LINK
+2. Download our datasets from Dryad: [LINK](https://doi.org/10.5061/dryad.gqnk98stm)
 3. Open one (or more) of the .R files found in this repository
 4. Proceed to bust out some sweet plots!
 
