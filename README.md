@@ -8,9 +8,11 @@ Authors: Claire O. Geiman and Eric S. Long
 
 Publication: "Allometric brain reduction in an insular, dwarfed population of black-tailed deer"
 
+Citation: Geiman CO, Long ES. Allometric brain reduction in an insular, dwarfed population of black-tailed deer. 2023. J Mammal Evol 30, 673–681. https://doi.org/10.1007/s10914-023-09672-6
+
 Date created: 2023-06-26
 
-Last edit: 2024-11-20
+Last edit: 2024-12-11
 
 ### What the project does
 This repository contains the scripts I used to produce the figures for my and my coauthor Eric S. Long's publication, "Allometric brain reduction in an insular, dwarfed population of black-tailed deer", which was published in the Journal of Mammalian Evolution in July 2023.
